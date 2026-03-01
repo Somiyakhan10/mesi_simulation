@@ -26,4 +26,4 @@ The project is inspired by research in **biophotonics and diffuse correlation to
 ---
 
 ## Folder Structure
-![MESI Blood Flow Curve](results/mesi_curve(2).png)
+![MESI Blood Flow Curve](results/mesi_curve.png)
